@@ -37,6 +37,7 @@ return {
 				"emmet_ls",
 				"prismals",
 				"pyright",
+				"java",
 			},
 		})
 
@@ -48,6 +49,8 @@ return {
 				"black", -- python formatter
 				"pylint",
 				"eslint_d",
+				"checkstyle",
+				"google-java-format",
 			},
 		})
 	end,
